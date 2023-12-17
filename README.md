@@ -1,0 +1,1 @@
+I have created my first OData service based on the V4 version of the OData specification and using the V4 server library provided by Olingo. My first OData service is very simple; it only allows invoking an entity collection, apart from the Service Document and the Metadata Document.
